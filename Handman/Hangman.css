@@ -1,0 +1,23 @@
+/* Hangman game CSS code */
+body {
+    text-align: center;
+	background-color: lightskyblue;
+}
+
+/* bottom area containing the New Game button */
+#newgamearea {
+    margin-top: 2em;
+}
+
+/* large courier font for word clues and guesses */
+#clue, #guesses {
+    font-family:monospace;
+    font-size: 2em;
+    padding: 1em;
+}
+
+/* large courier font for word clues and guesses */
+#SinglePlayer, #MultiPlayer {
+    text-align: left;	
+		}
+
